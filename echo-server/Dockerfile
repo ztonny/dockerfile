@@ -1,2 +1,2 @@
-FROM registry.cn-hangzhou.aliyuncs.com/google-container/echoserver:1.4 
+FROM gcr.io/google_containers/pause-amd64:3.0 
 MAINTAINER ztonny <ztonny@126.com>
